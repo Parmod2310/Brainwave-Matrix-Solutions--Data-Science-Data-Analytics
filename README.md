@@ -1,4 +1,7 @@
-# Brainwave Matrix Solutions - Task 1: Sales Data Analysis
+# Brainwave Matrix Solutions - Data Science/ Data Analytics
+
+
+## Task 1: Sales Data Analysis
 
 ## Task Overview
 As part of the Data Science/Data Analytics internship at **Brainwave Matrix Solutions**, Task 1 involved conducting a detailed sales data analysis for a commercial store. The primary focus was on analyzing and visualizing daily, weekly, and monthly sales trends to identify patterns and provide actionable insights. This report is based on processing raw sales data, applying data cleaning techniques, and visualizing the findings for better decision-making.
